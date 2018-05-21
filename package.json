@@ -31,7 +31,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/misterblizzard/javascript-tdd.git"
+    "url": "git+https://github.com/misterblizzard/spotify-wrapper.git"
   },
   "keywords": [
     "js",
@@ -40,9 +40,9 @@
   "author": "Filipe Machado <ax-filipe@hotmail.com> (https://www.github.com/misterblizzard)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/misterblizzard/javascript-tdd/issues"
+    "url": "https://github.com/misterblizzard/spotify-wrapper/issues"
   },
-  "homepage": "https://github.com/misterblizzard/javascript-tdd#readme",
+  "homepage": "https://github.com/misterblizzard/spotify-wrapper#readme",
   "devDependencies": {
     "babel-cli": "^6.26.0",
     "babel-core": "^6.26.3",
