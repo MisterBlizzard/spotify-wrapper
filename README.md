@@ -226,9 +226,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-| ![Willian Justen](https://avatars2.githubusercontent.com/u/3991845?v=3&s=150)|
+| ![Filipe Machado](https://avatars1.githubusercontent.com/u/22622266?s=400&u=16a87d51dbdea01e94f34a86f8c5efa18bbbb137&v=4)|
 |:---------------------:|
-|  [Willian Justen](https://github.com/willianjusten/)   |
+|  [Filipe Machado](https://github.com/miterblizzard/)   |
 
 See also the list of [contributors](https://github.com/willianjusten/spotify-wrapper/contributors) who participated in this project.
 
