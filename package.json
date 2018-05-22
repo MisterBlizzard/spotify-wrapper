@@ -1,8 +1,8 @@
 {
-  "name": "js-tdd",
+  "name": "spotify-wrapper",
   "version": "1.0.0",
   "description": "JavaScript with TDD library",
-  "main": "src/index.js",
+  "main": "lib/index.js",
   "scripts": {
     "build": "npm run clear && babel --out-dir lib src",
     "build:watch": "npm run build --watch",
