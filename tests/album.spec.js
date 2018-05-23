@@ -11,8 +11,8 @@ chai.use(sinonChai)
 
 global.fetch = require('node-fetch')
 
-import { getAlbum, getAlbums, getAlbumTracks } from "../src/album";
-import { API_URL } from "../src/config";
+import { getAlbum, getAlbums, getAlbumTracks } from "../src/album"
+import { API_URL } from "../src/config"
 
 describe('Album', () => {
     let stubedFetch

@@ -8,7 +8,7 @@ sinonStubPromise(sinon) // dizendo para o sinonStubPromise usar os objetos do si
 global.fetch = require('node-fetch') // global fetch é utilizado nos browsers
 
 import  API_URL from '../src/config'
-import { search, searchAlbums, searchArtists, searchPlaylists, searchTracks, getToken } from '../src/search';
+import { search, searchAlbums, searchArtists, searchPlaylists, searchTracks, getToken } from '../src/search'
 
 describe('Spotify Wrapper', () => {
 
