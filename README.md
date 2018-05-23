@@ -2,6 +2,7 @@
 
 [![Build Status](https://travis-ci.org/MisterBlizzard/spotify-wrapper.svg?branch=master)](https://travis-ci.org/MisterBlizzard/spotify-wrapper)
 
+
 [![Coverage Status](https://coveralls.io/repos/github/MisterBlizzard/spotify-wrapper/badge.svg?branch=master)](https://coveralls.io/github/MisterBlizzard/spotify-wrapper?branch=master)
 
 A wrapper to work with the [Spotify Web API](https://developer.spotify.com/web-api/).
