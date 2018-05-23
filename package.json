@@ -1,6 +1,6 @@
 {
   "name": "spotify-wrapper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "JavaScript with TDD library",
   "main": "lib/index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "test": "./node_modules/.bin/mocha tests/*.spec.js --require babel-register",
     "test:albums": "./node_modules/.bin/mocha tests/album.spec.js --watch --require babel-register",
     "test:coverage": "nyc npm run test",
-    "coveralls": "npm run test:coverage && nyc report --reporter=text-lcov | coveralls"
+    "coveralls": "npm run test:coverage && nyc eport --reporter=text-lcov | coveralls"
   },
   "nyc": {
     "functions": 80,
